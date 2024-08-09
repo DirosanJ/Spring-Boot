@@ -29,6 +29,7 @@ public class Course {
    }
 
     public void setCourseName(Object courseName) {
+
     }
 
     // Getters and Setters
